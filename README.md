@@ -1,4 +1,4 @@
-<p>👑 Olá, me chamo o ferinha. Sou um programador iniciante no FullStack.</p>
+<p>👑 Olá, me chamo ferinha. Sou um programador iniciante no FullStack.</p>
 <p>📑 Veja minhas informações abaixo:</p>
 <div>
 <h1>✔ Linguagens que estou aprendendo:</h1>
