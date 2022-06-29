@@ -17,7 +17,7 @@
 <h1>✔ Redes Sociais</h1>
 <ul>
 <li><a href="https://www.youtube.com/channel/UCKLJj2nJH3th04qeaDT_riw">YouTube</a> (Ensino a programar algumas coisas.)</li>
-<li> <a href="https://www.instagram.com/vitor_menoli/">Instagram</a> (Posto algumas coisas sobre minha vida pessoal)</li>
+<li> <a href="https://www.instagram.com/vitor_menoli/">Instagram</a> (Posto algumas coisas sobre minha vida pessoal.)</li>
 </ul>
 </div>
 <a href="https://youtu.be/DG8b1Ud4Mr8"><img src="https://i.ytimg.com/vi/DG8b1Ud4Mr8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDehTMGa2gAmAj287oiWCOzLOlHVw" /></a>
